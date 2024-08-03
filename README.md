@@ -1,6 +1,5 @@
 <p align="center">
-<a href="https://dscommunity.in">
-	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
+
 </a>
 	<h2 align="center"> Genrify - The Music App </h2>
 	<h3 align="center"> Hear it. Genrify it. </h3>
@@ -98,102 +97,9 @@ The basic project architechture is given below:
 	```
 
 
-## Contributors
 
-<table>
-<tr align="center">
-
-
-<td>
-
-Kruthi M
-
-<p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/Music-Genre-Classification-System/blob/master/Images/k.jpeg"  height="120" alt="Kruthi M">
-</p>
-<p align="center">
-<a href = "https://github.com/Kruthim1304"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/kruthi-m-49b300200/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-
-<td>
-
-Shashwat Ganesh
-
-<p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/Music-Genre-Classification-System/blob/master/Images/s.jpeg"  height="120" alt="Shashwat Ganesh">
-</p>
-<p align="center">
-<a href = "https://github.com/kknives"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sga0xc33d/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-	
-	
-	
-<td>
-
-Anushree Bajaj
-
-<p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/Music-Genre-Classification-System/blob/master/Images/a.jpg"  height="120" alt="Anushree Bajaj">
-</p>
-<p align="center">
-<a href = "https://github.com/condescendo"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/anushree-bajaj-7486b71b9/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-	
-
-
-<td>
-
-Jahnavi Darbhamulla
-
-<p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/Hand-Written-Digit-Classification-Recognition/blob/master/Doc%20images/j.jpg" height="120" alt="Jahnavi Darbhamulla">
-</p>
-<p align="center">
-<a href = "https://github.com/JahnaviDarbhamulla"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/jahnavi-darbhamulla-0a4280201/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-	
-	
-	
-<td>
-
-Rayaan Faiz
-
-<p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/Music-Genre-Classification-System/blob/master/Images/r.jpg"  height="120" alt="Rayaan Faiz">
-</p>
-<p align="center">
-<a href = "https://github.com/RayaanFaiz14"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/rayaan-faiz-1746261b6/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-</tr>
-  </table>
-  
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-<p align="center">
-	Made with :heart: by <a href="https://dscommunity.in">DS Community SRM</a>
 </p>
 
